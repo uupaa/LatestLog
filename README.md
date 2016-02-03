@@ -4,6 +4,7 @@ History of Web news and Web technologies.
 
 ## 2016
 
+- [2016-02](./2016-02.md)
 - [2016-01](./2016-01.md)
 
 ## 2015
